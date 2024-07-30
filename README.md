@@ -3,3 +3,4 @@
 2. Simple Neural Network for XOR
 3. Digit Classification with Softmax
 4. Neural Network Rectified Linear Unit ReLU vs Sigmoid
+5. Training A Neural Network with Momentum
