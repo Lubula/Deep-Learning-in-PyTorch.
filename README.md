@@ -5,3 +5,4 @@
 4. Neural Network Rectified Linear Unit ReLU vs Sigmoid
 5. Training A Neural Network with Momentum
 6. Data Augmentation
+7. Object detection with Faster R-CNN 
