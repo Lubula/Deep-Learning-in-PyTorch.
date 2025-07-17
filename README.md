@@ -1,4 +1,4 @@
-# Deep-Learning Principles, concepts & Projects exclusvly in Pytorch
+# Deep Learning: Principles, Concepts, and Projects Built Exclusively in PyTorch.
 1. Convolutional Neural Network
 2. Simple Neural Network for XOR
 3. Digit Classification with Softmax
