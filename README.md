@@ -29,14 +29,13 @@ This repository is a hands-on deep dive into **Convolutional Neural Networks (CN
 ## 🛠 Tech Stack
 - **Python**, **NumPy**, **Matplotlib**
 - **TensorFlow / Keras**, **PyTorch**
-- **OpenCV**
-- **Flask / Streamlit** for deployment
-
+- **OpenCV** / **CV Studio**
+- IBM Platform for deployment
 ---
 
 ## 🎯 Goals
 - Understand CNN architecture from first principles.
 - Compare activation functions and optimizers.
 - Explore practical applications in object detection and classification.
-- Deploy a working web application.
+- Deploy a working web application uisng IBM Platform.
 
