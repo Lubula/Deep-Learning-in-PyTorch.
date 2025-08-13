@@ -15,7 +15,7 @@ This repository is a hands-on deep dive into **Convolutional Neural Networks (CN
 4. [**Rectified Linear Unit (ReLU) vs Sigmoid Activation in CNN** ](https://github.com/Lubula/MNIST-CNN-From-Scratch-to-Production/blob/main/4.%20Rectified%20Linear%20Unit%20ReLU%20vs%20Sigmoid%20using%20CNN.ipynb) 
    - Comparative analysis of activation functions.
 
-5. [**Data Augmentation** ](https://github.com/Lubula/MNIST-CNN-From-Scratch-to-Production/blob/main/6.%20Data%20Augmentation.ipynb) 
+5. [**Training a CNN with Regular data and Augmented data.ipynb**](https://github.com/Lubula/MNIST-CNN-From-Scratch-to-Production/blob/main/5.%20Training%20a%20CNN%20with%20Regular%20data%20and%20Augmented%20data.ipynb)
    - Improved model generalization using transformations.
 
 6. [**Object Detection with Faster R-CNN**](https://github.com/Lubula/MNIST-CNN-From-Scratch-to-Production/blob/main/6.%20Object%20detection%20with%20Faster%20R-CNN.ipynb) 
