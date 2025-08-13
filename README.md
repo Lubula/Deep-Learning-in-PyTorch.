@@ -21,7 +21,7 @@ This repository is a hands-on deep dive into **Convolutional Neural Networks (CN
 6. [**Object Detection with Faster R-CNN**](https://github.com/Lubula/MNIST-CNN-From-Scratch-to-Production/blob/main/6.%20Object%20detection%20with%20Faster%20R-CNN.ipynb) 
    - Applied object detection for more complex vision tasks.
 
-7. [**Stop Sign Classifier Web App**](https://github.com/Lubula/MNIST-CNN-From-Scratch-to-Production/blob/main/7.%20Stop%20Sign%20Classifier%20WEB%20APP(Computer%20Vision%20Learning).ipynb)
+7. [**Stop Sign Classifier WEB APP (Transfer Learning for Computer Vision)**](https://github.com/Lubula/MNIST-CNN-From-Scratch-to-Production/blob/main/7.%20Stop%20Sign%20Classifier%20WEB%20APP(Transfer%20Learning%20for%20Computer%20Vision).ipynb)
    - End-to-end deployment of a CNN model using transfer learning for traffic sign classification deployed using IBM infrastructure.
 
 ---
